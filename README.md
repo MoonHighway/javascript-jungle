@@ -16,7 +16,7 @@ This repo contains everything you'll need to participate in the class.
 
 1. Course Sections: Each course section has a folder containing necessary files.
 2. Slides: All of the slides are HTML files. Open them in your browser to view!
-3. Labs & Exercises: Labs and Exercises all have a start and a finished folder if you need to catch up.
+3. Labs & Exercises: Labs and Exercises all have a start and a solution folder if you need to catch up.
 
 ## Course Sections 📦
 
