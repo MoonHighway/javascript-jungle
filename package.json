@@ -4,7 +4,8 @@
   "description": "A course to teach JavaScript fundamentals",
   "main": "index.js",
   "scripts": {
-    "intro": "open -a 'Google Chrome' ./01-hello-world/intro-slides.html"
+    "intro": "npx serve 01-hello-world/intro-slides",
+    "dot-click": "npx serve 01-hello-world/lab/slides"
   },
   "repository": {
     "type": "git",
