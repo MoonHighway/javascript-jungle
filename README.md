@@ -1,10 +1,10 @@
-# Welcome to the JavaScript Jungle
+# Welcome to the JavaScript Jungle 🌿
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="100" alt="javascript logo"/>
 </p>
 
-## Student Resources
+## Student Resources 📚
 
 Welcome to this course! We're so glad you're here. In this repo, you'll find all of the materials, slides, and resources necessary to succeed in the course.
 
@@ -22,18 +22,14 @@ This repo contains everything you'll need to participate in the class.
 
 The course is broken down into 4 parts: three sections and a longer lab activity.
 
-- Hello World: A look at the building blocks of the JavaScript language and an overview of how JavaScript works in the browser.
-- Data Structures: An introduction to Node.js with a deeper dive on JavaScript data structures like objects, arrays, and functions.
-- HTTP: An exploration of how servers and clients communicate over HTTP asynchronously.
-- Lab Activity: Putting it all together with a lab project to build a web server with Node.js.
+- [Hello World](https://github.com/MoonHighway/javascript-jungle-student-resources/tree/main/01-hello-world): A look at the building blocks of the JavaScript language and an overview of how JavaScript works in the browser.
+- [Data Structures](https://github.com/MoonHighway/javascript-jungle-student-resources/tree/main/02-data-structures): An introduction to Node.js with a deeper dive on JavaScript data structures like objects, arrays, and functions.
+- [HTTP](https://github.com/MoonHighway/javascript-jungle-student-resources/tree/main/03-http): An exploration of how servers and clients communicate over HTTP asynchronously.
+- [Lab Activity](https://github.com/MoonHighway/javascript-jungle-student-resources/tree/main/04-lab-activity): Putting it all together with a lab project to build a web server with Node.js.
 
 ## Course Times ⏱
 
-Timing is one the most important features of a successful class. Sometimes you will be able to cover a lot of ground. Sometimes you'll only be able to cover required topics. Every class is different. It's most important to honor the scheduled breaks and end times - move on when it's time to move on!
-
-The following is a schedule for online and in-person deliveries:
-
-### 4hr Online Schedule
+You can expect the course to follow this schedule:
 
 | Time        | Activity        | Length |
 | ----------- | --------------- | ------ |
