@@ -1,9 +1,7 @@
 # Welcome to the JavaScript Jungle
 
 <p align="center">
-<img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" width="100" alt="paypal logo"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="100" alt="javascript logo"/>
-<img src="https://i.imgur.com/migo24P.png" width="100" alt="moon highway logo"/>
 </p>
 
 ## Student Resources
