@@ -8,15 +8,15 @@
 
 Welcome to this course! We're so glad you're here. In this repo, you'll find all of the materials, slides, and resources necessary to succeed in the course.
 
-This 4-hour course is an introduction to JavaScript for software developers. The course gives developers the fundamentals they need to take the next steps with JavaScript frameworks and libraries. There’s often a temptation to skip the fundamentals and to jump right into advanced concepts. This course will provide a foundation in four hours and equip engineers with what they need to make a positive impact on JavaScript projects.
+This 4-hour course is an introduction to JavaScript for software developers. The course gives developers the fundamentals you'll need to take the next steps with JavaScript frameworks and libraries. This course will provide a foundation in four hours and equip students with what they need to make a positive impact on JavaScript projects.
 
 ## Using these Files 🗂
 
 This repo contains everything you'll need to participate in the class.
 
-1. Sections: Each course section has a folder containing necessary files.
+1. Course Sections: Each course section has a folder containing necessary files.
 2. Slides: All of the slides are HTML files. Open them in your browser to view!
-3. Labs & Exercises: Labs and Exercises each have a start and a finished folder if you need to catch up.
+3. Labs & Exercises: Labs and Exercises all have a start and a finished folder if you need to catch up.
 
 ## Course Sections 📦
 

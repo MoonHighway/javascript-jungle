@@ -1,0 +1,18 @@
+{
+  "name": "javascript-jungle-student-resources",
+  "version": "1.0.0",
+  "description": "A course to teach JavaScript fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "intro": "open -a 'Google Chrome' ./01-hello-world/intro-slides.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoonHighway/javascript-jungle-student-resources.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Moon Highway @moonhighway"
+}
