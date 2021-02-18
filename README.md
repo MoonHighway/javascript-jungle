@@ -12,10 +12,10 @@ This 4-hour course is an introduction to JavaScript for software developers. The
 
 ## Using these Files 🗂
 
-This repo contains everything you'll need to participate in the class.
+This repo contains everything you'll need to participate in the class. Each course section has a folder containing necessary files.
 
-1. Course Sections: Each course section has a folder containing necessary files.
-2. Slides: All of the slides are HTML files. Open them in your browser to view!
+1. Slides: All of the slides are HTML files. Open them in your browser to view!
+2. Samples: All of the short samples from the class are found in each folder by category.
 3. Labs & Exercises: Labs and Exercises all have a start and a solution folder if you need to catch up.
 
 ## Course Sections 📦
