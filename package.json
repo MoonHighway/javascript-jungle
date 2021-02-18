@@ -1,10 +1,10 @@
 {
-  "name": "javascript-jungle-student-resources",
+  "name": "javascript-jungle",
   "version": "1.0.0",
   "description": "A course to teach JavaScript fundamentals",
   "main": "index.js",
   "scripts": {
-    "intro": "npx serve 01-hello-world/intro-slides",
+    "intro": "npx serve 01-hello-world/slides",
     "dot-click": "npx serve 01-hello-world/lab/slides",
     "objects-arrays": "npx serve 02-data-structures/lab/slides",
     "http": "npx serve 03-http/slides",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MoonHighway/javascript-jungle-student-resources.git"
+    "url": "git+https://github.com/MoonHighway/javascript-jungle.git"
   },
   "keywords": [
     "javascript",

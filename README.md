@@ -22,10 +22,10 @@ This repo contains everything you'll need to participate in the class.
 
 The course is broken down into 4 parts: three sections and a longer lab activity.
 
-- [Hello World](https://github.com/MoonHighway/javascript-jungle-student-resources/tree/main/01-hello-world): A look at the building blocks of the JavaScript language and an overview of how JavaScript works in the browser.
-- [Data Structures](https://github.com/MoonHighway/javascript-jungle-student-resources/tree/main/02-data-structures): An introduction to Node.js with a deeper dive on JavaScript data structures like objects, arrays, and functions.
-- [HTTP](https://github.com/MoonHighway/javascript-jungle-student-resources/tree/main/03-http): An exploration of how servers and clients communicate over HTTP asynchronously.
-- [Lab Activity](https://github.com/MoonHighway/javascript-jungle-student-resources/tree/main/04-lab-activity): Putting it all together with a lab project to build a web server with Node.js.
+- [Hello World](https://github.com/MoonHighway/javascript-jungle/tree/main/01-hello-world): A look at the building blocks of the JavaScript language and an overview of how JavaScript works in the browser.
+- [Data Structures](https://github.com/MoonHighway/javascript-jungle/tree/main/02-data-structures): An introduction to Node.js with a deeper dive on JavaScript data structures like objects, arrays, and functions.
+- [HTTP](https://github.com/MoonHighway/javascript-jungle/tree/main/03-http): An exploration of how servers and clients communicate over HTTP asynchronously.
+- [Lab Activity](https://github.com/MoonHighway/javascript-jungle/tree/main/04-lab-activity): Putting it all together with a lab project to build a web server with Node.js.
 
 ## Course Times ⏱
 

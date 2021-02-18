@@ -14,7 +14,7 @@ In this section, we'll cover the basics of the JavaScript language from the grou
 
 ## Intro Slides
 
-To open the [slides](https://github.com/MoonHighway/javascript-jungle-student-resources/blob/main/01-hello-world/slides/intro-slides.html) in your browser, run:
+To open the [slides](https://github.com/MoonHighway/javascript-jungle/blob/main/01-hello-world/slides/intro-slides.html) in your browser, run:
 
 ```bash
 npm run intro
@@ -23,7 +23,7 @@ npm run intro
 Then your browser will open to `localhost:5000`.
 
 <p align="center">
-<img src="https://github.com/MoonHighway/javascript-jungle-student-resources/blob/main/01-hello-world/intro-slide.png" width="400" alt="intro slide"/>
+<img src="https://github.com/MoonHighway/javascript-jungle/blob/main/01-hello-world/intro-slide.png" width="400" alt="intro slide"/>
 </p>
 
 ## Lab Slides
